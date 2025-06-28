@@ -1,3 +1,10 @@
+<style>
+  .center {
+    width: 80%; /* 或其他固定宽度如800px */
+    margin: 0 auto; /* 保持居中 */
+  }
+</style>
+
 # CoCo4D: Comprehensive and Complex 4D Scene Generation
 
 [![Project Page](https://img.shields.io/badge/Project-Website-green)](https://colezwhy.github.io/coco4d/)

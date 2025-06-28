@@ -1,10 +1,3 @@
-<style>
-  .center {
-    width: 80%; /* 或其他固定宽度如800px */
-    margin: 0 auto; /* 保持居中 */
-  }
-</style>
-
 # CoCo4D: Comprehensive and Complex 4D Scene Generation
 
 [![Project Page](https://img.shields.io/badge/Project-Website-green)](https://colezwhy.github.io/coco4d/)
@@ -28,13 +21,13 @@ Given a text prompt and an optional reference image, CoCo4D first generates an i
 <div style="width: 80%; margin: 0 auto;">
 <table class="center" style="width: 75%">
     <tr style="line-height: 2">
-      <td style="width: 30%; border: none; text-align: center">In the background, fireworks bursting. Infront of it, there is a teddy bear dancing slowly within a small area.</td>
+      <td style="width: 28%; border: none; text-align: center">In the background, fireworks bursting. Infront of it, there is a teddy bear dancing slowly within a small area.</td>
       <td style="width: 28%; border: none; text-align: center">An anime girl walking forward
       in a cherry blossom scene.</td>
     </tr>
     <tr style="line-height: 2">
-      <td style="width: 30%; border: none"><img src="./assets/firework.gif"></td>
-      <td  style="width: 28%; border: none"><img src="./assets/cherry.gif"></td>
+      <td style="width: 28%; border: none"><img src="./assets/firework.gif" width="300"></td>
+      <td  style="width: 28%; border: none"><img src="./assets/cherry.gif" width="300"></td>
     </tr>
  </table>
  </div>

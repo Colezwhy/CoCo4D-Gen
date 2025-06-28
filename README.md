@@ -21,13 +21,13 @@ Given a text prompt and an optional reference image, CoCo4D first generates an i
 
 <table class="center" style="width: 75%">
     <tr style="line-height: 2">
-      <td width=30% style="border: none; text-align: center">In the background, fireworks bursting. Infront of it, there is a teddy bear dancing slowly within a small area.</td>
-      <td width=28% style="border: none; text-align: center">An anime girl walking forward
+      <td style="width: 30%; border: none; text-align: center">In the background, fireworks bursting. Infront of it, there is a teddy bear dancing slowly within a small area.</td>
+      <td style="width: 28%; border: none; text-align: center">An anime girl walking forward
       in a cherry blossom scene.</td>
     </tr>
     <tr style="line-height: 2">
-      <td width=30% style="border: none"><img src="./assets/firework.gif"></td>
-      <td width=28% style="border: none"><img src="./assets/cherry.gif"></td>
+      <td style="width: 30%; border: none"><img src="./assets/firework.gif"></td>
+      <td  style="width: 28%; border: none"><img src="./assets/cherry.gif"></td>
     </tr>
  </table>
 

@@ -25,7 +25,7 @@ Given a text prompt and an optional reference image as input, we aim at generati
 
 Given a text prompt and an optional reference image, CoCo4D first generates an initial motion sequence utilizing video diffusion models. This motion sequence then guides the synthesis of both the dynamic foreground object and the background using a novel progressive outpainting scheme. To ensure seamless integration of the moving foreground object within the dynamic background, CoCo4D optimizes a parametric trajectory for the foreground, resulting in realistic and coherent blending.
 
-
+<div style="width: 80%; margin: 0 auto;">
 <table class="center" style="width: 75%">
     <tr style="line-height: 2">
       <td style="width: 30%; border: none; text-align: center">In the background, fireworks bursting. Infront of it, there is a teddy bear dancing slowly within a small area.</td>
@@ -37,5 +37,6 @@ Given a text prompt and an optional reference image, CoCo4D first generates an i
       <td  style="width: 28%; border: none"><img src="./assets/cherry.gif"></td>
     </tr>
  </table>
+ </div>
 
  ## Quick Start
